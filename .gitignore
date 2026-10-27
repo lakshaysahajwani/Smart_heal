@@ -1,0 +1,20 @@
+
+# Python files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local databases and backups
+smartheal.db
+smartheal_test.db
+smartheal_test_backup.db
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
